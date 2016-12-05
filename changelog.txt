@@ -1,0 +1,17 @@
+-------------------------------------------
+------   Flespakket Magento plugin   ------
+------                               ------
+------           changelog           ------
+-------------------------------------------
+
+v1.1.1  -  17-07-2014
+Improvement: updated the PostNL track&trace url's to mijnpakket and internationalparceltracking
+
+v1.1.0  -  05-06-2014
+Improvement: added bottle 18 package type
+Improvement: removed the need to select a package type (fallback to the Flespakket default)
+Improvement: added configuration field to toggle the periodical status updates of shipments
+Improvement: added one page checkout module support to pakjegemak functionality
+
+v1.0.0  -  07-03-2014
+Initial release

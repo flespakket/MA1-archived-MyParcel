@@ -1,0 +1,17 @@
+<h4>Sending data to Flespakket ...</h4>
+<form
+    action="<?php echo htmlspecialchars($this->getFlespakketPostUrl()); ?>"
+    method="post"
+    id="flespakket-create-consignment"
+    style="visibility:hidden;"
+    >
+<?php foreach ($this->getFormParams() as $param => $value) {
+    ?>
+    <input type="text" name="<?php echo htmlspecialchars($param); ?>" value="<?php echo htmlspecialchars($value); ?>" />
+<?php } ?>
+</form>
+<script type="text/javascript">
+document.observe('dom:loaded', function(){
+    document.getElementById('flespakket-create-consignment').submit();
+});
+</script>

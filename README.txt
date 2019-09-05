@@ -1,4 +1,4 @@
-**_Flespakket Prestashop is archived, look at the following link for the latest version of the MyParcel plugin. https://github.com/myparcelnl_**
+**This is bold text**
                        
 -------------------------------------------
 ------   Flespakket Magento plugin   ------

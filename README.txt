@@ -1,4 +1,5 @@
-# This is an <h1> tag
+The magento 1 plugin is archived, look at the following link for the latest version of the MyParcel plugin. https://github.com/myparcelnl
+
 
 -------------------------------------------
 ------   Flespakket Magento plugin   ------

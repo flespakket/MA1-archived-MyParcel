@@ -1,5 +1,5 @@
-**This is bold text**
-                       
+# This is an <h1> tag
+
 -------------------------------------------
 ------   Flespakket Magento plugin   ------
 ------                               ------
